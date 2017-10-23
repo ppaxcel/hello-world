@@ -1,2 +1,3 @@
 # hello-world
-First experiment with GIT and GITHUB
+added a new line
+deleted old line at 2nd row.
